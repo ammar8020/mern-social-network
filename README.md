@@ -2,7 +2,7 @@
 
 > Single Page Application (SPA)
 
-This is a MERN stack application. It is a social network app that includes authentication, profiles and forum posts.
+This is a MERN stack web app. It is a social network app that includes authentication, profiles and forum posts.
 
 ## Quick Start
 

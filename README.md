@@ -1,4 +1,4 @@
-# MERN Social Network 2.0
+# MERN Social Network
 
 > Single Page Application (SPA)
 
@@ -41,7 +41,7 @@ Ammar Ahmed
 
 ### Version
 
-2.0.0
+1.0.0
 
 ### License
 
